@@ -1,6 +1,9 @@
 # AADHAAR SAMIKSHA
 ### Beyond Numbers. Towards Digital Inclusion.
 
+## Team Name : Dominex
+## Team Members: Archit Mittal, Harshda Chachan
+
 An interactive data analytics platform that transforms Aadhaar enrolment and biometric datasets into meaningful insights through geographical, temporal, and demographic analysis.
 
 **[Live Demo](https://aadhaar-samiksha-g9pwkm7qicncja4qkuf4jw.streamlit.app/) · [Project Presentation (PPT)](https://drive.google.com/file/d/1kV49nSCeh5OZ8mjRFd6usrfPQx0xWnkM/view?usp=sharing)**
