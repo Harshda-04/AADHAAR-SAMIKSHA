@@ -2,7 +2,7 @@
 ### Beyond Numbers. Towards Digital Inclusion.
 
 ## Team Name : Dominex
-## Team Members: Archit Mittal, Harshda Chachan
+## Team Members: Archit Mittal, Harshda 
 
 An interactive data analytics platform that transforms Aadhaar enrolment and biometric datasets into meaningful insights through geographical, temporal, and demographic analysis.
 
