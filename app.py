@@ -106,7 +106,7 @@ def load_data():
             "Keep it in the same folder as app.py."
         )
 
-    df = pd.read_pickle(PKL_PATH)
+    df = pd.read_pickle(PKL_PATH, compression="gzip")
 
     required = [
         "date",
