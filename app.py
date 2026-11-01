@@ -94,7 +94,7 @@ st.markdown("""
 # =====================================================
 
 BASE_DIR = Path(__file__).resolve().parent
-PKL_PATH = BASE_DIR / "aadhaar_data.pkl"
+PKL_PATH = BASE_DIR / "aadhaar_data.pkl.gz"
 
 
 @st.cache_data
